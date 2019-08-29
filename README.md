@@ -7,4 +7,3 @@
 The data here is available for Migrahack participants to use in their projects. In each folder you'll find a description of the data, a link to the source, a folder with the original dataset and a cleaned-up dataset.
 
 
-# migrahack
