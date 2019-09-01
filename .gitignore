@@ -1,1 +1,3 @@
+
+echo .DS_Store >> .gitignore
 .DS_Store
