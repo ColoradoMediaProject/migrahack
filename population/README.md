@@ -1,4 +1,6 @@
-# Census data
+# Population data
+
+### Census data
 These folders include American Community Survey five-year estimates from the U.S. Census Bureau
 
 The nativity folder includes county level estimates for 2017, 2015 and 2010 of total population, native born population, foreign born population, foreign born with citizenship and foreign born without citizenship. Note that the American Community Survey is a sample, not an attempt to count all people in the United States like the census. It does ask a question about citizenship.
@@ -10,3 +12,10 @@ The historic nativity folder includes data on nativity in the nation, region and
 
 Some links to recent news sources:
 [Pew Research on changes in counties](https://www.pewresearch.org/fact-tank/2019/08/21/u-s-counties-majority-nonwhite/)
+
+### Other data
+
+The refugees by year table comes from the [Refugee Processing Center](https://www.wrapsnet.org/admissions-and-arrivals/), part of the Department of State; as well as prior reports to Congress [documentation in this Google doc](https://docs.google.com/document/d/1LfPx5ncbDNUx-oISWuII33OLCwGxxtryWTlTrDXAMa0/edit?usp=sharing)
+
+Department of Homeland Security tracks people who become lawful permanent residents each year by state, metro areas and includes demographics. The main statewide files in the dhs folder are combined from those originals. Original files are in the dhs_lpr/original folder. There are also files for Core Based Statistical Areas of Residence in individual city files; they are originals by year. The data comes from the [DHS Profiles of Lawful Permanent Residents](https://www.dhs.gov/profiles-lawful-permanent-residents).
+
