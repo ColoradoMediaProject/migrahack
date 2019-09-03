@@ -4,6 +4,6 @@
 ### [More information](https://coloradomigrahack.school.blog/)
 
 ### About this site
-The data here is available for Migrahack participants to use in their projects. In each folder you'll find a description of the data, a link to the source, a folder with the original dataset and a cleaned-up dataset.
+This data is intended for participants in the Sept. 27-28 Colorado Migrahack to use in their projects, with funding provided by the [Colorado Media Project](https://coloradomediaproject.com/). In each folder you'll typically find a description of the data, a link to the source, a folder with the original dataset and a cleaned-up dataset.
 
 
