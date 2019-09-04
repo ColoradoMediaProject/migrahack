@@ -8,6 +8,6 @@ The Department of Labor issues several types of work visas for permanent and tem
 
 Data for these types of visas comes from the [disclosure data](https://www.foreignlaborcert.doleta.gov/performancedata.cfm) tab.
 
-###ICE contracts
+### ICE contracts
 
 This data comes from [Sludge](https://readsludge.com/). Reporter Alex Kotch [cleaned up and analyzed](https://docs.google.com/spreadsheets/d/1Tut9q-Clcfc8ryueATzEZGZor2_7elFH0_JTM8GE_Yg/edit#gid=858397753) [federal contract data](usaspending.gov) from 2010 through July 29, 2019.	
