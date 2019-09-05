@@ -1,0 +1,68 @@
+﻿Column,Description
+AGENT_ATTORNEY_CITY,
+AGENT_ATTORNEY_NAME,Agent or attorney filing the application
+AGENT_ATTORNEY_STATE,
+AGENT_REPRESENTING_EMPLOYER,Y or N on agent representing
+AMENDED_PETITION,"Indicates requested worker(s) will be continuing employment with same employer with material change to job duties, as defined by USCIS I-29."
+CASE_NUMBER,Unique identifier; though they may show up more than once
+CASE_STATUS,"Status associated with the last significant event or decision. Valid values include “Certified,” “Certified-Withdrawn,” Denied,” and “Withdrawn”."
+CASE_SUBMITTED,Date submitted
+CHANGE_EMPLOYER,"Indicates requested worker(s) will begin employment for new employer, using the same classification currently held, as defined by USCIS I-29."
+CHANGE_PREVIOUS_EMPLOYMENT,"Indicates requested worker(s) will be continuing employment with same employer without material change to job duties, as defined by USCIS I-29."
+CONTINUED_EMPLOYMENT,"Indicates requested worker(s) will be continuing employment with same employer, as defined by USCIS I-29."
+DECISION_DATE,
+EMPLOYER_ADDRESS1,
+EMPLOYER_ADDRESS2,
+EMPLOYER_BUSINESS_DBA,Trade or other name
+EMPLOYER_CITY,
+EMPLOYER_COUNTRY,
+EMPLOYER_NAME,
+EMPLOYER_PHONE,
+EMPLOYER_PHONE_EXT,
+EMPLOYER_POSTAL_CODE,
+EMPLOYER_PROVINCE,
+EMPLOYER_STATE,
+EMPLOYMENT_END_DATE,
+EMPLOYMENT_START_DATE,
+FULL_TIME_POSITION,Y = Full Time Position; N = Part Time Position.
+FY,"Fiscal Year 2010 through June 30, 2019; added by fish"
+H1B_DEPENDENT,Y = Employer is H-1B Dependent; N = Employer is not H-1B Dependent
+JOB_TITLE,
+LABOR_CON_AGREE,Y = Employer agrees to the responses to the Labor Condition Statements as in the subsection; N = Employer does not agree to the responses to the Labor Conditions Statements in the subsection.
+NAICS_CODE,"Industry code associated with the employer requesting permanent labor condition, as classified by the North American Industrial Classification System (NAICS)."
+NEW_CONCURRENT_EMPLOYMENT,"ndicates requested worker(s) will begin employment with additional employer, as defined by USCIS I-29."
+NEW_EMPLOYMENT,"Indicates requested worker(s) will begin employment for new employer, as defined by USCIS I-29."
+ORIGINAL_CERT_DATE,Original Certification Date for a Certified Withdrawn application.
+OTHER_WAGE_SOURCE_2,"Description of the Other wage source (online wage library, OES, employer provided survey, etc.) – second location"
+PREVAILING_WAGE,Prevailing Wage for the job being requested for temporary labor condition.
+PW_2,Prevailing wage rate - second location
+PW_SOURCE,"Variables include ""OES"", ""CBA"", ""DBA"", ""SCA"" or ""Other""."
+PW_SOURCE_2,Collective bargaining; SESA; Other - second location
+PW_SOURCE_OTHER,"If ""Other Wage Source"", provide the source of wage."
+PW_SOURCE_YEAR,Year the Prevailing Wage Source was Issued
+PW_UNIT_2,Unit of pay - second location
+PW_UNIT_OF_PAY,"Unit of Pay.  Valid values include “Daily (DAI),” “Hourly (HR),” “Bi-weekly (BI),” “Weekly (WK),” “Monthly (MTH),” and “Yearly (YR)”."
+PW_WAGE_LEVEL,"Variables include ""I"", ""II"", ""III"", ""IV"" or ""N/A."""
+SECONDARY_ENTITY,Y = Workers will be placed in a secondary location; N = Workers will not be placed in secondary location.
+SECONDARY_ENTITY_NAME,Name of secondary entity where employer will work
+SOC_CODE,"Occupational code associated with the job being requested for temporary labor condition, as classified by the Standard Occupational Classification (SOC) System."
+SOC_NAME,Occupational name associated with the SOC CODE.
+STATUTORY_BASIS,Basis of exemption
+SUPPORT_H1B,"Y = Employer will use the temporary labor condition application only to support H-1B petitions or extensions of status of exempt H-1B worker(s); N = Employer will not use the temporary labor condition application to 
+support H-1B petitions or extensions of status for exempt H-1B worker(s);
+N/A = not applicable."
+TOTAL_WORKERS,
+VISA_CLASS,"Indicates the type of temporary application submitted for processing. Values include H-1B, E-3 Australian, H-1B1 Chile, and H-1B1 Singapore. "
+WAGE_RATE_OF_PAY,"Rate of pay offered, 2015 only"
+WAGE_RATE_OF_PAY_FROM,Employer’s proposed wage rate.
+WAGE_RATE_OF_PAY_TO,Maximum proposed wage rate.
+WAGE_UNIT_OF_PAY,"Unit of pay.  Valid values include “Hour"", ""Week"", ""Bi-Weekly"", ""Month"", or ""Year""."
+WILLFUL_VIOLATOR,Y = Employer has been previously found to be a Willful Violator; N = Employer has not been considered a Willful Violator.
+WORKSITE_CITY,
+WORKSITE_COUNTY,
+WORKSITE_POSTAL_CODE,
+WORKSITE_STATE,
+WORK_LOCATION_CITY2,Address information of the second location in which the foreign worker is expected to be employed (location of the job opening)
+WORK_LOCATION_STATE2,
+YR_SOURCE_PUB_1,Collective bargaining; SESA; Other
+YR_SOURCE_PUB_2,Year that the prevailing wage data was published – second location
