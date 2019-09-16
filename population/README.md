@@ -13,9 +13,7 @@ The historic nativity folder includes data on nativity in the nation, region and
 Some links to recent news sources:
 [Pew Research on changes in counties](https://www.pewresearch.org/fact-tank/2019/08/21/u-s-counties-majority-nonwhite/)
 
-### Other data
+### Lawful permanent residents
 
-The refugees by year table comes from the [Refugee Processing Center](https://www.wrapsnet.org/admissions-and-arrivals/), part of the Department of State; as well as prior reports to Congress [documentation in this Google doc](https://docs.google.com/document/d/1LfPx5ncbDNUx-oISWuII33OLCwGxxtryWTlTrDXAMa0/edit?usp=sharing)
-
-Department of Homeland Security tracks people who become lawful permanent residents each year by state, metro areas and includes demographics. The main statewide files in the dhs folder are combined from those originals. Original files are in the dhs_lpr/original folder. There are also files for Core Based Statistical Areas of Residence from 2005 on and Metropolitan Statistical Areas for 2003 & 2004 in individual city files ; they are originals by year. The data comes from the [DHS Profiles of Lawful Permanent Residents](https://www.dhs.gov/profiles-lawful-permanent-residents). Note that Silverthorne changes to Breckenridge, and there is [no data for 2014](https://www.dhs.gov/profiles-legal-permanent-residents-2014-cbsa) for either.
+Department of Homeland Security tracks people who become lawful permanent residents each year by state, metro areas and includes demographics. The main statewide files are combined from those originals. Original files are in the original folder. There are also files for Core Based Statistical Areas of Residence from 2005 on and Metropolitan Statistical Areas for 2003 & 2004 in individual city files ; they are originals by year. The data comes from the [DHS Profiles of Lawful Permanent Residents](https://www.dhs.gov/profiles-lawful-permanent-residents). Note that Silverthorne changes to Breckenridge, and there is [no data for 2014](https://www.dhs.gov/profiles-legal-permanent-residents-2014-cbsa) for either.
 
