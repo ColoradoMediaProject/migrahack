@@ -10,6 +10,10 @@ The nativity folder includes county level estimates for 2017, 2015 and 2010 of t
 The historic nativity folder includes data on nativity in the nation, region and by state from 1850 through 2010.
 [Source of historic data](https://www.census.gov/population/www/documentation/twps0029/tab13.html) plus [2010](https://data.census.gov/cedsci/table?y=2010&table=S0501&tid=ACSST5Y2010.S0501&g=0100000US,.04000.001_0200000US4,3,1,2&t=Native%20and%20Foreign%20Born&hidePreview=false&vintage=2010&layer=region&cid=S0501_C01_001E&lastDisplayedRow=19) and [2000 data, page 3](https://www.census.gov/prod/2003pubs/c2kbr-34.pdf)
 
+In the youth folder there are tables on age ranges for those under 18 by county and another for school enrollment for native-born, foreign-born, foreign-born citizens and foreign-born non-citizens. Only large counties are represented because sample sizes aren't large enough in smaller counties. These are 5-year estimates from [American Community Survey Table SO501](https://data.census.gov/cedsci/table?t=Native%20and%20Foreign%20Born&table=S0501&tid=ACSST5Y2017.S0501&hidePreview=true&lastDisplayedRow=158&g=0400000US08.050000). Identical tables are in the youth/census_age_education folders.
+
+Note other census data is available. Contact fish if there's some other aspect such as employment, housing, marital status, etc.
+
 Some links to recent news sources:
 [Pew Research on changes in counties](https://www.pewresearch.org/fact-tank/2019/08/21/u-s-counties-majority-nonwhite/)
 
