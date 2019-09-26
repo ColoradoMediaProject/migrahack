@@ -14,6 +14,8 @@ The Colorado-related data includes employers with a Colorado address and worksit
 
 This data comes from [Sludge](https://readsludge.com/). Reporter Alex Kotch [cleaned up and analyzed](https://docs.google.com/spreadsheets/d/1Tut9q-Clcfc8ryueATzEZGZor2_7elFH0_JTM8GE_Yg/edit#gid=858397753) [federal contract data](usaspending.gov) from 2010 through July 29, 2019.	Please cite Sludge in using this information.
 
+Worth a read: [this piece in Roll Call](https://www.rollcall.com/news/policy/emails-show-how-private-firms-profit-from-ice-detention-centers) on private firms profiting from these contracts.
+
 ### Wage Theft
 
 The Colorado Department of Labor and Employment [tracks wage theft allegations](https://docs.google.com/spreadsheets/d/1bU04n7MO8ngOiFWwn96L_fJQy3wo6WcoZilfKbe8Ajc/edit#gid=1757802295), but doesn't include information on country of birth or citizenship. This still might be useful, since immigrants are often the victims of wage theft.
