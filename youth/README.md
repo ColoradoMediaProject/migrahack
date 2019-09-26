@@ -2,7 +2,7 @@
 
 ### Census
 
-There are tables on age ranges for those under 18 by county and another for school enrollment for native-born, foreign-born, foreign-born citizens and foreign-born non-citizens. Only large counties are represented because sample sizes aren't large enough in smaller counties. These are 5-year estimates from [American Community Survey Table SO501](https://data.census.gov/cedsci/table?t=Native%20and%20Foreign%20Born&table=S0501&tid=ACSST5Y2017.S0501&hidePreview=true&lastDisplayedRow=158&g=0400000US08.050000). Identical tables are in the population/census folders.
+There are tables on age ranges for those under 18 by county and another for school enrollment for native-born, foreign-born, foreign-born citizens and foreign-born non-citizens for 2010 and 2017. Only large counties are represented because sample sizes aren't large enough in smaller counties. These are 5-year estimates from [American Community Survey Table SO501](https://data.census.gov/cedsci/table?t=Native%20and%20Foreign%20Born&table=S0501&tid=ACSST5Y2017.S0501&hidePreview=true&lastDisplayedRow=158&g=0400000US08.050000). Identical tables are in the population/census folders.
 
 ### Unaccompanied minors
 

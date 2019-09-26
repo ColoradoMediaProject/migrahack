@@ -12,4 +12,13 @@ The Colorado-related data includes employers with a Colorado address and worksit
 
 ### ICE contracts
 
-This data comes from [Sludge](https://readsludge.com/). Reporter Alex Kotch [cleaned up and analyzed](https://docs.google.com/spreadsheets/d/1Tut9q-Clcfc8ryueATzEZGZor2_7elFH0_JTM8GE_Yg/edit#gid=858397753) [federal contract data](usaspending.gov) from 2010 through July 29, 2019.	
+This data comes from [Sludge](https://readsludge.com/). Reporter Alex Kotch [cleaned up and analyzed](https://docs.google.com/spreadsheets/d/1Tut9q-Clcfc8ryueATzEZGZor2_7elFH0_JTM8GE_Yg/edit#gid=858397753) [federal contract data](usaspending.gov) from 2010 through July 29, 2019.	Please cite Sludge in using this information.
+
+### Wage Theft
+
+The Colorado Department of Labor and Employment [tracks wage theft allegations](https://docs.google.com/spreadsheets/d/1bU04n7MO8ngOiFWwn96L_fJQy3wo6WcoZilfKbe8Ajc/edit#gid=1757802295), but doesn't include information on country of birth or citizenship. This still might be useful, since immigrants are often the victims of wage theft.
+
+### Recent stories
+
+[Colorado ranks high](https://www.denverpost.com/2019/09/16/colorado-immigrants-refugees-employment-2019-report/) in immigrants and refugees finding employment according to a [national report](https://drive.google.com/file/d/1Nb0-jVpEc3oD0lNWkRftPrs7EUNAFtcZ/view) via Saja Hindi, Denver Post
+
