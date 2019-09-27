@@ -2,6 +2,8 @@
 
 You'll find some reports on various aspects of immigration in these folders, as well as links to recent news stories below. This list isn't nearly comprehensive as the focus has been on seeking data.
 
+Included is a recent demographic presentation from the state demographer, a recent report from the federal Office of Refugee Resettlement and a recent report on the backlog of citizenship applications in Colorado.
+
 ### Recent news stories
 
 [Life on the asylum waitlist](https://www.nationalgeographic.com/culture/2019/09/life-united-states-asylum-waitlist-long-dangerous/) from National Geographic
