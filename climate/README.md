@@ -13,6 +13,6 @@ Also take a look at [their 2018 report](http://www.internal-displacement.org/glo
 Also included here is the report "Climate Change and Migration in Vulnerable Countries" from the [Environmental Migration Portal](https://environmentalmigration.iom.int/) affiliated with [United Nations International Office of Migration](https://www.iom.int/migration-and-climate-change) and affiliate
 
 
-Also, take a look at the [Migration Data Portal](https://migrationdataportal.org/themes/environmental_migration) .
+Also, take a look at the [Migration Data Portal](https://migrationdataportal.org/themes/environmental_migration).
 
 

@@ -4,11 +4,11 @@ You'll find some reports on various aspects of immigration in these folders, as 
 
 ### Recent news stories
 
-[Live on the asylum waitlist](https://www.nationalgeographic.com/culture/2019/09/life-united-states-asylum-waitlist-long-dangerous/) from National Geographic
+[Life on the asylum waitlist](https://www.nationalgeographic.com/culture/2019/09/life-united-states-asylum-waitlist-long-dangerous/) from National Geographic
 
 [Colorado ranks high](https://www.denverpost.com/2019/09/16/colorado-immigrants-refugees-employment-2019-report/) in immigrants and refugees finding employment according to a [national report](https://drive.google.com/file/d/1Nb0-jVpEc3oD0lNWkRftPrs7EUNAFtcZ/view) via Saja Hindi, Denver Post
 
-Possible ban on allowing spouses of [H-1B visa holders to work][https://www.denverpost.com/2019/09/18/h-1b-visa-h4-spouses-work-ban-spring/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dp-politics+%28Denver+Post%3A+Politics%3A+All+Political+News%29]
+Possible ban on allowing spouses of [H-1B visa holders to work](https://www.denverpost.com/2019/09/18/h-1b-visa-h4-spouses-work-ban-spring/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dp-politics+%28Denver+Post%3A+Politics%3A+All+Political+News%29)
 
 ### Past news reports & studies
 
