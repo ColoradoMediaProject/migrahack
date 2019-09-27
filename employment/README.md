@@ -14,6 +14,8 @@ The Colorado-related data includes employers with a Colorado address and worksit
 
 This data comes from [Sludge](https://readsludge.com/). Reporter Alex Kotch [cleaned up and analyzed](https://docs.google.com/spreadsheets/d/1Tut9q-Clcfc8ryueATzEZGZor2_7elFH0_JTM8GE_Yg/edit#gid=858397753) [federal contract data](https://www.usaspending.gov/#/https://www.usaspending.gov/#/) from 2010 through July 29, 2019.	Please cite Sludge in using this information.
 
+The most recent [Sludge story](https://readsludge.com/2019/07/30/ice-contracts-are-booming-see-which-vendors-are-in-your-state/)
+
 Worth a read: [this piece in Roll Call](https://www.rollcall.com/news/policy/emails-show-how-private-firms-profit-from-ice-detention-centers) on private firms profiting from these contracts.
 
 ### Wage Theft
