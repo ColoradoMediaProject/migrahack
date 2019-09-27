@@ -11,3 +11,5 @@ The Marshall Project in cooperation with The Guardian this week published [Detai
 ### TRAC
 
 The Transactional Records Access Clearinghouse at Syracuse University obtains information on [immigration detention, removals and more](https://trac.syr.edu/immigration/) via FOIA. There are several great datasets there, but they aren't downloadable. But you may use the data and attribute it to TRAC.
+
+This data is sortable by state and sometimes by county. Again, it isn't downloadable, just viewable.
