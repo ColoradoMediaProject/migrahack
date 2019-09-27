@@ -4,6 +4,8 @@ You'll find some reports on various aspects of immigration in these folders, as 
 
 Included is a recent demographic presentation from the state demographer, a recent report from the federal Office of Refugee Resettlement and a recent report on the backlog of citizenship applications in Colorado.
 
+Celeste mentioned the [Migration Data Portal](https://migrationdataportal.org/), which may include more information people may use.
+
 ### Recent news stories
 
 [Life on the asylum waitlist](https://www.nationalgeographic.com/culture/2019/09/life-united-states-asylum-waitlist-long-dangerous/) from National Geographic
